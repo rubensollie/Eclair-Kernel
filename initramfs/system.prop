@@ -1,0 +1,10 @@
+#
+# system.prop for smdk6442
+#
+
+rild.libpath=/system/lib/libsec-ril.so
+rild.libargs=-d /dev/ttyS0
+keyguard.no_require_sim=true
+ro.sf.lcd_density=120
+# wifi
+wifi.interface=eth0

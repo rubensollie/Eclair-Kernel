@@ -1,0 +1,9 @@
+[PLATFORM_INFO]
+platform_name = Android;
+platform_hw = apollo rev02;
+[COMPILE_INFO]
+compile_time = 2010-11-05 16:05:30;
+compiled_by  = root;
+compile_host = SE-S608;
+compiler_version = arm-linux-gcc (for S3C64XX Samsung Electronics AP Development Team) 4.3.1;
+busybox_version = busybox;
